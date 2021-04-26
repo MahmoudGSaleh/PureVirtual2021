@@ -45,5 +45,4 @@ void spaceship_in_library_types_demo()
     std::cout << ((s1 <=> s4) == std::strong_ordering::greater) << std::endl;
     std::cout << ((s1 <=> s5) == std::strong_ordering::less) << std::endl;
     std::cout << ((s1 <=> s6) == std::strong_ordering::greater) << std::endl;
-
 }

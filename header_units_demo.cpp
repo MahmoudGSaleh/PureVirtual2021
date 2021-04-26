@@ -3,16 +3,16 @@
 
 // Demo MSVC implementation of Standard library header units for C++20: https://wg21.link/P1502R1
 
-#include <algorithm>
-#include <iostream>
-#include <string>
-#include <vector>
+//#include <algorithm>
+//#include <iostream>
+//#include <string>
+//#include <vector>
 
 // Replace with header units
-//import <algorithm>;
-//import <iostream>;
-//import <string>;
-//import <vector>;
+import <algorithm>;
+import <iostream>;
+import <string>;
+import <vector>;
 
 
 void standard_library_header_units_demo()

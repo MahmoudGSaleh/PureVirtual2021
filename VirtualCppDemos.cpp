@@ -9,14 +9,14 @@ void standard_library_header_units_demo();
 
 int main()
 {
-	//// 1. <ranges>
-	//ranges_demo();
+	// 1. <ranges>
+	ranges_demo();
 
 	//// 2. Demo for <=> usage in the standard Library
 	//spaceship_in_library_types_demo();
 
-	// 3. consteval and constinit demos
-	consteval_and_constinit_demo();
+	//// 3. consteval and constinit demos
+	//consteval_and_constinit_demo();
 
 	//// 4. Standard Library Header Units Demo
 	//standard_library_header_units_demo();
